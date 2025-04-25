@@ -1,0 +1,3 @@
+Content-Type: text/plain
+
+Hello Bob, this message is signed and encrypted just for you. – Alice Kakhishvili
